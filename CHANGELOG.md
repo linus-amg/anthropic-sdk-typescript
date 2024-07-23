@@ -1,5 +1,23 @@
 # Changelog
 
+## 0.25.0 (2024-07-23)
+
+Full Changelog: [sdk-v0.24.3...sdk-v0.25.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.24.3...sdk-v0.25.0)
+
+### Features
+
+* **client:** make request-id header more accessible ([#462](https://github.com/anthropics/anthropic-sdk-typescript/issues/462)) ([5ea6f8b](https://github.com/anthropics/anthropic-sdk-typescript/commit/5ea6f8be0696e3753d8624f72328a5cba3a86056))
+
+
+### Chores
+
+* **ci:** also run workflows for PRs targeting `next` ([#464](https://github.com/anthropics/anthropic-sdk-typescript/issues/464)) ([cc405a8](https://github.com/anthropics/anthropic-sdk-typescript/commit/cc405a8cc4ea26389b9d857d75818722d0bcbfcd))
+* **docs:** mention lack of support for web browser runtimes ([#468](https://github.com/anthropics/anthropic-sdk-typescript/issues/468)) ([968a7fb](https://github.com/anthropics/anthropic-sdk-typescript/commit/968a7fbb6cb779d17d9f6c485c0b61f241e327bc))
+* **docs:** minor update to formatting of API link in README ([#467](https://github.com/anthropics/anthropic-sdk-typescript/issues/467)) ([50b9f2b](https://github.com/anthropics/anthropic-sdk-typescript/commit/50b9f2b0c3feb4707af2b9e5f006a3f726782803))
+* **docs:** use client instead of package name in Node examples ([#469](https://github.com/anthropics/anthropic-sdk-typescript/issues/469)) ([8961ebf](https://github.com/anthropics/anthropic-sdk-typescript/commit/8961ebf54bbab898667119c8d9551e33a4de6846))
+* **internal:** minor changes to tests ([#465](https://github.com/anthropics/anthropic-sdk-typescript/issues/465)) ([c1fd563](https://github.com/anthropics/anthropic-sdk-typescript/commit/c1fd563693bd354a81e0ae55c7355144f06b7f0b))
+* sync spec ([#470](https://github.com/anthropics/anthropic-sdk-typescript/issues/470)) ([b493aa4](https://github.com/anthropics/anthropic-sdk-typescript/commit/b493aa49d3d6e67be22c3e8255dd4286e6bbcdeb))
+
 ## 0.24.3 (2024-07-01)
 
 Full Changelog: [sdk-v0.24.2...sdk-v0.24.3](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.24.2...sdk-v0.24.3)
